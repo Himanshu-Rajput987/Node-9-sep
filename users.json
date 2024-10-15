@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "first_name": "Molly",
+    "last_name": "Swindle",
+    "email": "mswindle0@ustream.tv",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Elladine",
+    "last_name": "Gotmann",
+    "email": "egotmann1@gmpg.org",
+    "gender": "Agender"
+  },
+  {
+    "id": 3,
+    "first_name": "Arlina",
+    "last_name": "Gilmore",
+    "email": "agilmore2@ibm.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 4,
+    "first_name": "Georgiana",
+    "last_name": "Durrans",
+    "email": "gdurrans3@npr.org",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Jacynth",
+    "last_name": "Marsden",
+    "email": "jmarsden5@hugedomains.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Nan",
+    "last_name": "Howship",
+    "email": "nhowship6@linkedin.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Eba",
+    "last_name": "Corneille",
+    "email": "ecorneille7@zimbio.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Thomasine",
+    "last_name": "Formoy",
+    "email": "tformoy8@latimes.com",
+    "gender": "Female"
+  }
+]
